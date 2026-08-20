@@ -149,3 +149,6 @@ A lightweight, Node.js and Express-based web application designed to dynamically
 ## 📝 License
 
 Open-source.
+
+git config --global user.email "your.email@example.com"
+git config --global user.name "Your Name"
