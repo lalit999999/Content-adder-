@@ -118,3 +118,34 @@ http://localhost:3000
 ## 📝 License
 
 This project is open-source. Feel free to modify and expand it to suit your needs!
+
+Hello 👋🤗🤗
+
+# Content-adder- 🚀
+
+A lightweight, Node.js and Express-based web application designed to dynamically add, manage, and serve web content.
+
+## 📁 Repository Structure
+
+* `public/` - Static assets (HTML, CSS, JS)
+* `server.js` - Main backend server file
+* `package.json` - Dependencies and project metadata
+
+## 🛠 Prerequisites
+
+* Node.js (v14+) and npm.
+
+## 🚀 Getting Started
+
+1.  **Clone:** `git clone https://github.com`
+2.  **Install:** `npm install`
+3.  **Run:** `node server.js`
+4.  **Access:** `http://localhost:3000`
+
+## 🔧 Technologies Used
+
+* Node.js, Express.js
+
+## 📝 License
+
+Open-source.
